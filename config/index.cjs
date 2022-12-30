@@ -15,6 +15,17 @@ const USER_CONFIG = {
 
   PROVINCE: '山西',
   CITY: '大同',
+  
+  // 功能开关,打开：true，关闭：false
+  SWITCH: {
+  CIBA: false,
+    holidaytts: false,
+    momentCopyrighting: false,
+    poisonChickenSoup: false,
+    courseSchedule: false,
+    poetry: false,
+    oneTalk: false,
+  },
 
   USERS: [
     {
