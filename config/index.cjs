@@ -25,6 +25,8 @@ const USER_CONFIG = {
     courseSchedule: false,
     poetry: false,
     oneTalk: false,
+    earthyLoveWords: true,
+    horoscope: true,
   },
 
   USERS: [
@@ -37,6 +39,7 @@ const USER_CONFIG = {
       useTemplateId: '78QyeZSdO6p3QSYUeAYGDs42Q52JKhoVO19KfI2HbMQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-19',
+      horoscopeDateType: '今日',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
