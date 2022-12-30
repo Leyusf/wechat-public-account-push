@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9b32d93bbcbd1bd76236b4fce86ce868',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '山西',
+  CITY: '大同',
 
   USERS: [
     {
@@ -32,9 +32,9 @@ const USER_CONFIG = {
           type: '*生日', name: '宝贝', year: '2000', date: '03-19',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '李四', year: '2000', date: '03-19',
-        },
+//         {
+//           type: '生日', name: '李四', year: '2000', date: '03-19',
+//         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '02-14',
         },
