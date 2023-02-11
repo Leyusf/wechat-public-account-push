@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '9b32d93bbcbd1bd76236b4fce86ce868',
 
-  PROVINCE: '山西',
-  CITY: '大同',
+  PROVINCE: '江苏',
+  CITY: '无锡',
   
   // 功能开关,打开：true，关闭：false
   SWITCH: {
